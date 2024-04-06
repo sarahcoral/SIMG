@@ -1,34 +1,15 @@
 # <p align="center"> Repositorio del Semillero de Investigación de Modelos Generativos (SIMG)
 
-Bienvenido al repositorio del SIMG. Aquí encontrará libros y papers relacionados al estudio de los modelos generativos, planificación y seguimiento de varios proyectos del SIMG, así como los productos de investigación del semillero. Ya sea usted un miembro nuevo o antiguo, este repositorio está diseñado para optimizar nuestro flujo de trabajo y facilitar el intercambio de conocimientos.
-
-## Contenidos del README:
-Navegación del repositorio:
-Planeación:
-Productos:
-Recursos:
-Otros:
-FAQ (Preguntas frecuentes):
-P: ¿Cómo accedo al repositorio?
-P: No sé dónde guardar un archivo
-P: No sé que tareas tengo asignadas
-P: No encuentro un archivo/carpeta
-P: No puedo editar/acceder a un archivo o carpeta
-P: Tengo una duda que no está en este FAQ
+Bienvenido al repositorio del SIMG. Aquí encontrará libros y papers relacionados al estudio de los modelos generativos, planificación y seguimiento de varios proyectos del SIMG, así como los productos de investigación del semillero.
 
 ## Navegación del repositorio:
-El folder principal (“SIMG”) del repositorio en Drive contiene 4 subfolders con distintos propósitos:
+El folder principal (“SIMG”) del repositorio contiene 4 subfolders con distintos propósitos:
 ### Planeación:
 Esta carpeta contiene todos los documentos relacionados con la planificación del semillero, incluidas listas de asistencia, cronograma, asignaciones de tareas y encargados de cada proyecto/actividad.
 ### Productos:
 En esta carpeta encontrará los resultados de nuestros esfuerzos de investigación, como artículos, presentaciones, conjuntos de datos y prototipos de software. Por favor consulte los protocolos establecidos para organizar, documentar y editar archivos relacionados a nuestros proyectos.
 ### Recursos:
 Esta carpeta reúne recursos para respaldar sus actividades de investigación y aprendizaje, incluidos libros, papers, presentaciones, repositorios de código, tutoriales, herramientas y plantillas. No dude en contribuir a expandir nuestra carpeta de recursos, consulte los protocolos para añadir recursos a la carpeta.
-### Aplicaciones
-Dentro de nuestro repositorio del semillero de estudio formal de modelos generativos, presentamos tres aplicaciones destacadas con sus descripciones y detalles explicativos, a saber:
-1.  Dcgans para generación de rostros.
-2.  LSTM para generación de poemas.
-3.  LSTM para generación de música.
 ### Otros:
 A veces los archivos no pertenecen a ninguna de las anteriores carpetas, o bien no estamos seguros de dónde ubicarlos. Para eso existe esta carpeta. La idea es revisar que los archivos que terminan en esta carpeta sean clasificados apropiadamente lo más pronto posible.
 
