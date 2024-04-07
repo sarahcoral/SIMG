@@ -22,8 +22,8 @@ R: Si las descripciones de cada folder en la sección “Navegación del reposit
 ### P: No sé qué tareas tengo asignadas
 R: La carpeta Planeación contiene la mayoría de las asignaciones de tareas así como fechas de entrega, descripciones de actividades y asignación de encargados/líderes de equipo. De lo contrario siempre puede consultar al encargado de su proyecto, o a alguno de los integrantes internos del semillero.
 ### P: No puedo editar/encontrar/acceder a un archivo o carpeta
-R: Si necesita acceso a un documento o carpeta para el cual actualmente no tiene permiso para ver, comuníquese con el administrador del repositorio o con la persona responsable de esa área de contenido en particular. Ellos le ayudarán a obtener acceso. Si no está seguro, consulte a los integrantes internos del semillero. A 2024: John Robert Gomez Pachon, Sarah Daniella Coral Zuniga, Tuli Peña Melo, Francisco Jose Gutierrez Pena.
+R: Si necesita acceso a un documento o carpeta para el cual actualmente no tiene permiso para ver, comuníquese con el administrador del repositorio o con la persona responsable de esa área de contenido en particular. Ellos le ayudarán a obtener acceso. Si no está seguro, consulte a los integrantes internos del semillero.
 ### P: Tengo una duda que no está en este FAQ
-R:  No dude en consultar a los integrantes internos del semillero, al administrador del repositorio o al director del semillero. A 2024: John Robert Gomez Pachon, Sarah Daniella Coral Zuniga, Tuli Peña Melo, Francisco Jose Gutierrez Pena. 
+R:  No dude en consultar a los integrantes internos del semillero, al administrador del repositorio o al director del semillero.
 ### P: Quiero editar este README
-R: Si no los tiene aún, pida permisos de edición al administrador del repositorio. Asegúrese de tener aprobación para los cambios y notificar de esto al director del semillero y/o al administrador del repositorio. A 2024, comuníquese con John Robert Gomez Pachon o Sarah Daniella Coral Zuniga .
+R: Si no los tiene aún, pida permisos de edición al administrador del repositorio. Asegúrese de tener aprobación para los cambios y notificar de esto al director del semillero y/o al administrador del repositorio.
